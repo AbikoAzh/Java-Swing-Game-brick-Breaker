@@ -5,6 +5,9 @@ Brick Breaker Game Using Java Swing
 ### 📝 Description: 
   Brick Breaker game is a Breakout in which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the computer's keyboard. The player gets 5 points with every brick smashed; a life is lost if the ball hits the bottom of the screen. When all the bricks have been destroyed, the game is over.
 
+[Java Swing libraries](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
+![Behance](https://img.shields.io/badge/Version-V1.0.0-1769ff?style=for-the-badge&logo=&logoColor=white)
+
 ### Classes:
 * Main_bri
 * Gameplay
